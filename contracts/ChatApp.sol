@@ -42,5 +42,5 @@ contract ChatApp {
     }
 
     //ADD FRIENDS
-    function addFriend(address friend_key, string calldata name)
+    function addFriend(address friend_key, string calldata name) {}
 }
