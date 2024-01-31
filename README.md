@@ -18,8 +18,7 @@ To deploy this project run <i>npm start</i>
 
 
 <h2>Tech Stack</h2>
-
-*Front-End:* React, Js, CSS
-
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 *Others:* Solidity
 
