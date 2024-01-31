@@ -11,12 +11,12 @@ import images from '../../assets'
 const NavBar = () => {
   const menuItems = [
     {
-      menu: 'ALL USERS',
-      link: 'alluser',
-    },
-    {
       menu: 'CHAT',
       link: '/',
+    },
+    {
+      menu: 'ALL USERS',
+      link: 'alluser',
     },
     {
       menu: 'CONTACT',

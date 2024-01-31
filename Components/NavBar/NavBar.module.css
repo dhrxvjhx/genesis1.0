@@ -1,4 +1,3 @@
-
 .NavBar{
     width: 80%;
     margin:  3rem auto;
@@ -43,6 +42,7 @@
     border: none;
     border-radius: .5rem;
     font-size: 1.1rem;
+    text-transform: capitalize;
     color: #00d9ff;
     font-weight: 700;
     cursor: pointer;

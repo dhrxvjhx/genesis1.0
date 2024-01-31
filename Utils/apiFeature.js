@@ -58,17 +58,17 @@ export const converTime = (time) => {
   const newTime = new Date(time.toNumber());
 
   const realTime =
-    newTime.getHours() +
-    "/" +
-    newTime.getMinutes() +
-    "/" +
-    newTime.getSeconds() +
-    "  Date:" +
+    " " +
     newTime.getDate() +
     "/" +
     (newTime.getMonth() + 1) +
     "/" +
-    newTime.getFullYear();
+    newTime.getFullYear()+
+    "   (" +
+    newTime.getHours() +
+    ":" +
+    newTime.getMinutes() +
+    ")";
 
   return realTime;
 };

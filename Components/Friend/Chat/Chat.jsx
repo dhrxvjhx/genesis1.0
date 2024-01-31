@@ -70,7 +70,7 @@ const Chat = ({
                     />
                     <span>
                       {chatData.name} {""}
-                      <small>Time: {converTime(el.timestamp)}</small>
+                      <small>{converTime(el.timestamp)}</small>
                     </span>
                   </div>
                 ) : (
@@ -83,7 +83,7 @@ const Chat = ({
                     />
                     <span>
                       {userName} {""}
-                      <small>Time: {converTime(el.timestamp)}</small>
+                      <small> {converTime(el.timestamp)}</small>
                     </span>
                   </div>
                 )}
@@ -103,7 +103,7 @@ const Chat = ({
               <Image src={images.smile} alt="smile" width={50} height={50} />
               <input
                 type="text"
-                placeholder="type your message"
+                placeholder="Type your message"
                 onChange={(e) => setMessage(e.target.value)}
               />
               <Image src={images.file} alt="file" width={50} height={50} />

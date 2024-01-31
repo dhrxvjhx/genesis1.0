@@ -4,6 +4,7 @@
     text-align: center;
     padding: 1rem;
     position: relative;
+    border: 1px solid white;
 }
 
 .UserCard_box_img{
@@ -14,12 +15,16 @@
     line-height: .6;
 }
 
+.UserCard_box_info_address{
+    font-size: .8rem;
+}
+
 .UserCard_box_info button{
     background-color: rgba(0,0,0, 0.25);
-    color: #00d9ff;
-    width: 50%;
-    padding: 1rem;
-    border: none;
+    color: #07aac7;
+    width: 30%;
+    padding: 0.5rem;
+    border: 1px solid white;
     border-radius: .5rem;
     font-size: 1rem;
     cursor: pointer;
@@ -30,6 +35,6 @@
     right: 1rem;
     padding: 1rem 1.3rem;
     border-radius: 50%;
-    background-color: #00d9ff;
+    background-color: #06a5c1;
     top: 1rem;
 }
