@@ -16,8 +16,8 @@
     gap: 1rem;
     border-radius: 2rem;
     padding-inline: 1rem;
-    background-color: rgba(0,0,0,0.25);
-    color: #00d9ff;
+    color: #fff;
+    background-color: black;
 }
 
 .Filter_box_left_search input{
@@ -25,7 +25,7 @@
     outline: none;
     border: none;
     padding: 1rem;
-    color: #00d9ff;
+    color: #fff;
     width: 20rem;
 }
 
@@ -35,11 +35,11 @@
 }
 
 .Filter_box_right button{
-    background-color: rgba(0,0,0,0.25);
+    background-color: rgba(169, 127, 127, 0.25);
     outline: none;
     border: none;
     padding: 1rem 2rem;
-    color: #00d9ff;
+    color: #fff;
     border-radius: 2rem;
     font-weight: 700;
     display: flex;
@@ -51,8 +51,13 @@
 .Filter_model{
     position: fixed;
     inset: 0 0 0 0;
-    background-color: #292f3f;
+    color: white;
+    background-color: black;
     z-index: 2222222222;
+}
+
+.Filter_model title{
+    color: #fff;
 }
 
 @media only screen and (max-width: 35em) {

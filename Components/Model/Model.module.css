@@ -32,6 +32,7 @@
     margin-block: 1rem;
     gap: 1rem;
     background-color: rgba(0, 0, 0, 0.25);
+    border: 1px solid white;
     padding: 1rem;
     border-radius: .5rem;
     cursor: pointer;
@@ -51,9 +52,14 @@
     gap: 1rem;
 }
 
+.Model_box_left{
+    padding-top: 4rem;
+    padding-right: 2rem;
+}
+
 .Model_box_right_name_btn button{
     outline: none;
-    border: none;
+    border: 1px solid white;
     color: #00d9ff;
     font-size: 1.2rem;
     font-weight: 700;

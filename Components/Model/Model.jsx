@@ -26,7 +26,7 @@ const Model = ({
     <div className={Style.Model}>
       <div className={Style.Model_box}>
         <div className={Style.Model_box_left}>
-          <Image src={image} alt="buddy" width={700} height={700} />
+          <Image src={image} alt="buddy" width={680} height={550} />
         </div>
         <div className={Style.Model_box_right}>
           <h1>

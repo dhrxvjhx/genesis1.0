@@ -39,9 +39,9 @@ const Filter = () => {
           <Model
             openBox={setAddFriend}
             title="WELCOME TO"
-            head="Chat With Privacy"
+            head="Chat Ease"
             info=""
-            smallInfo="Kindley Select Your Friend Name & Address.."
+            smallInfo="Kindly Select Your Friend Name & Address.."
             image={images.hero}
             functionName={addFriends}
           />
@@ -51,4 +51,4 @@ const Filter = () => {
   )
 }
 
-export default Filter
+export default Filter;
