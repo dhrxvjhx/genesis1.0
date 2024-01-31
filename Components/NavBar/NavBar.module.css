@@ -26,10 +26,10 @@
 }
 
 .active_btn{
-    color:  #00d9ff;
-    border-bottom: 2px solid #00d9ff;
+    color:  #ff9100;
+    border-bottom: 2px solid #ff9100;
     padding-bottom: .4rem;
-}
+    
 
 .NavBar_box_right_connect{
     display: flex;
@@ -41,9 +41,9 @@
     padding: 1rem;
     border: none;
     border-radius: .5rem;
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     text-transform: capitalize;
-    color: #00d9ff;
+    color: #ff9100;
     font-weight: 700;
     cursor: pointer;
 
