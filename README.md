@@ -1,6 +1,7 @@
 <h1 align="center">ChatEase</h1>
 A completely decentralized application that focuses on privacy and security of users.
-<h2>Features</h2>
+
+## Features
 <ul><li>Decentralizations
 <li>Blockchain Integration
 <li>User Privacy
@@ -8,7 +9,16 @@ A completely decentralized application that focuses on privacy and security of u
 <li>Cross-platform Compatiblity
 </ul>
 
+## Contributors
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
 
