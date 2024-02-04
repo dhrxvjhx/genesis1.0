@@ -17,6 +17,16 @@
       ]
     },
     {
+ all-contributors/add-nikunjmathur08
+      "login": "nikunjmathur08",
+      "name": "nikunjmathur08",
+      "avatar_url": "https://avatars.githubusercontent.com/u/142373040?v=4",
+      "profile": "https://github.com/nikunjmathur08",
+      "contributions": [
+        "code",
+        "design",
+        "video"
+
       "login": "JayabrataBasu",
       "name": "JayabrataBasu",
       "avatar_url": "https://avatars.githubusercontent.com/u/133545838?v=4",
@@ -24,6 +34,7 @@
       "contributions": [
         "code",
         "ideas"
+
       ]
     }
   ],
