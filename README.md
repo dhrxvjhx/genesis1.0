@@ -1,6 +1,6 @@
 <h1 align="center">ChatEase</h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 A completely decentralized application that focuses on privacy and security of users.
 
@@ -21,6 +21,7 @@ A completely decentralized application that focuses on privacy and security of u
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://dhrxvjhx.github.io"><img src="https://avatars.githubusercontent.com/u/68009084?v=4?s=100" width="100px;" alt="Dhruv Jha"/><br /><sub><b>Dhruv Jha</b></sub></a><br /><a href="https://github.com/dhrxvjhx/genesis1.0/commits?author=dhrxvjhx" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nikunjmathur08"><img src="https://avatars.githubusercontent.com/u/142373040?v=4?s=100" width="100px;" alt="nikunjmathur08"/><br /><sub><b>nikunjmathur08</b></sub></a><br /><a href="https://github.com/dhrxvjhx/genesis1.0/commits?author=nikunjmathur08" title="Code">💻</a> <a href="#design-nikunjmathur08" title="Design">🎨</a> <a href="#video-nikunjmathur08" title="Videos">📹</a></td>
     </tr>
   </tbody>
 </table>
