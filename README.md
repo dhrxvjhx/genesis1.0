@@ -1,7 +1,11 @@
 <h1 align="center">ChatEase</h1>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<p align="center">
+  
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](##contributors-)
+[![MIT License](https://img.shields.io/badge/License-MIT-orange.svg)](https://choosealicense.com/licenses/mit/)
+  
+</p>
+
 A completely decentralized application that focuses on privacy and security of users.
 
 ## Features
@@ -38,11 +42,6 @@ A completely decentralized application that focuses on privacy and security of u
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-
-
-
-[![MIT License](https://img.shields.io/badge/License-MIT-orange.svg)](https://choosealicense.com/licenses/mit/)
 
 
 <h2>Tech Stack</h2>
